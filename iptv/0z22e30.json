@@ -1,5 +1,7 @@
 [
             
+    ["name", "category", "image", "url"],
+            
     ["beIN Sports 1 HD", "Sports", "img/qatar1.jpg", "https://dl.dropboxusercontent.com/s/t6465xx7k160e2w/.m3u8"],
     
     ["beIN Sports 2 HD", "Sports", "img/qatar2.jpg", "https://dl.dropboxusercontent.com/s/pksonyoqzb9o3mu/.m3u8"],
