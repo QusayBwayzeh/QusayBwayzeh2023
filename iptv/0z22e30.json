@@ -1,13 +1,9 @@
 [
-    ["name", "category", "image", "url"],
-
-    ["Welcome", "welcome", "img/qatar.jpg", "img/1-airport-uk.mp3"],
-         
+            
     ["beIN Sports 1 HD", "Sports", "img/qatar1.jpg", "https://dl.dropboxusercontent.com/s/t6465xx7k160e2w/.m3u8"],
     
     ["beIN Sports 2 HD", "Sports", "img/qatar2.jpg", "https://dl.dropboxusercontent.com/s/pksonyoqzb9o3mu/.m3u8"],
          
     ["beIN Sports 3 HD", "Sports", "img/qatar3.jpg", "https://dl.dropboxusercontent.com/s/zualuomxznpf26s/.m3u8"],
     
-    ["The End", "welcome notavailable", "img/qatar.jpg", "https://bigsoundbank.com/UPLOAD/mp3/0644.mp3"]
 ]
