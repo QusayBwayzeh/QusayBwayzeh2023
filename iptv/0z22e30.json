@@ -2,17 +2,17 @@
             
     ["name", "category", "image", "url"],
             
-    ["beIN Sports MAX 1 HD", "Sports", "img/qatar1.jpg", "http://red.ipfox.org:8080/Karam2022/Karam2023/52345"],
+    ["beIN Sports MAX 1 HD", "Sports", "img/qatar1.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52345.m3u8"],
     
     ["beIN Sports MAX 2 HD", "Sports", "img/qatar2.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8"],
          
-    ["beIN Sports MAX 3 HD", "Sports", "img/qatar3.jpg", "https://raw.githubusercontent.com/QusayBwayzeh/iptv/live/2766.m3u8"],
+    ["beIN Sports MAX 3 HD", "Sports", "img/qatar3.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52347.m3u8"],
             
-    ["beIN Sports MAX 4 HD", "Sports", "img/qatar4.jpg", "https://9023673751ed.xplus7.app/SP/beIN.Max.4_720p/playlist.m3u8?Xplusendtime=1669120565&Xplusstarttime=1669034165&Xplushash=KiMsrs9IsUkHRwh8Bl2pz9Pm9HklN8Jtv4VnDubB53I="],
+    ["beIN Sports MAX 4 HD", "Sports", "img/qatar4.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52348.m3u8"],
             
-    ["beIN Sports MAX 5 HD", "Sports", "img/qatar5.jpg", "https://9023673751ed.xplus7.app/SP/beIN.Max.5_720p/playlist.m3u8?Xplusendtime=1669120565&Xplusstarttime=1669034165&Xplushash=KiMsrs9IsUkHRwh8Bl2pz9Pm9HklN8Jtv4VnDubB53I="],
+    ["beIN Sports MAX 5 HD", "Sports", "img/qatar5.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52349.m3u8"],
             
-    ["beIN Sports MAX 6 HD", "Sports", "img/qatar6.jpg", "https://9023673751ed.xplus7.app/SP/beIN.Max.6_720p/playlist.m3u8?Xplusendtime=1669120565&Xplusstarttime=1669034165&Xplushash=KiMsrs9IsUkHRwh8Bl2pz9Pm9HklN8Jtv4VnDubB53I="]
+    ["beIN Sports MAX 6 HD", "Sports", "img/qatar6.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52350.m3u8"]
             
     
 ]
