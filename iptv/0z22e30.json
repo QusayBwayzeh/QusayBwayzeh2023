@@ -2,7 +2,11 @@
             
     ["name", "category", "image", "url"],
             
-    ["beIN Sports MAX 1 HD", "Sports", "img/qatar1.jpg", "https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master1080.m3u8"],
+    ["AlKass 1 HD", "Sports", "img/qatar.jpg", "https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master1080.m3u8"],
+            
+    ["AlKass 1 HD", "Sports", "img/qatar.jpg", "https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master.m3u8"],
+            
+    ["beIN Sports MAX 2 HD", "Sports", "img/qatar1.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52345.m3u8"],
     
     ["beIN Sports MAX 2 HD", "Sports", "img/qatar2.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8"],
          
