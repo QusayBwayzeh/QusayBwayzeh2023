@@ -2,7 +2,7 @@
             
     ["name", "category", "image", "url"],
             
-    ["beIN Sports MAX 1 HD", "Sports", "img/qatar1.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52345.m3u8"],
+    ["beIN Sports MAX 1 HD", "Sports", "img/qatar1.jpg", "https://6232103207371ed.xplus7.app/SP/beIN.Max.1_720p/playlist.m3u8?Xplusendtime=1669197351&Xplusstarttime=1669110951&Xplushash=xsS2y9yFDW-8ueCoWWKvz5ONfRu3GCoTqnJ-8Tr_AdU="],
     
     ["beIN Sports MAX 2 HD", "Sports", "img/qatar2.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52346.m3u8"],
          
