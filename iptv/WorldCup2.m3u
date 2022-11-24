@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/23YkKlJ.png" group-title="Bein Sports Arabic",beIN SPORTS
-http://iptvtree.net:8080/live/Houngst20001/QE02A8R8WV4XHK3B/280725.m3u8
+http://iptvtree.net:8080/Houngst20001/QE02A8R8WV4XHK3B/280725
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/AMDfS3T.png" group-title="Bein Sports Arabic",beIN SPORTS 1
 http://iptvtree.net:8080/live/Houngst20001/QE02A8R8WV4XHK3B/100.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/zWvgN1s.png" group-title="Bein Sports Arabic",beIN SPORTS 2
@@ -15,9 +15,9 @@ http://iptvtree.net:8080/live/Houngst20001/QE02A8R8WV4XHK3B/105.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Q3CW4Cb.png" group-title="Bein Sports Arabic",beIN SPORTS 7
 http://iptvtree.net:8080/live/Houngst20001/QE02A8R8WV4XHK3B/106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uM4AcHP.png" group-title="Bein Sports Arabic",beIN SPORTS Max 1
-http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/72.m3u8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/72
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hStv4RT.png" group-title="Bein Sports Arabic",beIN SPORTS Max 2
-http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/73.m3u8
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/73
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/O84eEDl.png" group-title="Bein Sports Arabic",beIN SPORTS Max 3
 http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/74.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lN9a095.png" group-title="Bein Sports Arabic",beIN SPORTS Max 4
