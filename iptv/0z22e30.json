@@ -1,24 +1,27 @@
 [
             
     ["name", "category", "image", "url"],
+     
+    ["beIN Sports MAX 1 HD", "Sports", "img/qatar1.jpg", "http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/72.m3u8"],
+    
+    ["beIN Sports MAX 2 HD", "Sports", "img/qatar2.jpg", "http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/73.m3u8"],
+    
+    ["beIN Sports MAX 3 HD", "Sports", "img/qatar3.jpg", "http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/74.m3u8"],
+            
+    ["beIN Sports MAX 4 HD", "Sports", "img/qatar4.jpg", "http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/75.m3u8"],
+            
+    ["beIN Sports MAX 5 HD", "Sports", "img/qatar5.jpg", "http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/76.m3u8"],
+            
+    ["beIN Sports MAX 6 HD", "Sports", "img/qatar6.jpg", "http://212.102.58.251:8080/live/Nroa0AohHn/z3d8ZHNBWt/77.m3u8"],
+            
             
     ["AlKass 1 HD", "Sports", "img/qatar.jpg", "https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master1080.m3u8"],
             
     ["AlKass 1 HD", "Sports", "img/qatar.jpg", "https://liveb.alkassdigital.net/hls/live/2094545/Alkass1ns/master.m3u8"],
             
-    ["beIN Sports MAX 1 HD", "Sports", "img/qatar1.jpg", "https://oklive6-12.vkuser.net:443/hls/3366744885841.m3u8/sig/tjejezRLDk8/expires/1669285475381/srcIp/46.32.124.112/urls/45.136.22.51/clientType/0/srcAg/CHROME_ANDROID/mid/5204803001937/3366744885841_high/index.m3u8"],
+    ["beIN Sports MAX 1 HD X", "Sports", "img/qatar.jpg", "https://oklive6-12.vkuser.net:443/hls/3366744885841.m3u8/sig/tjejezRLDk8/expires/1669285475381/srcIp/46.32.124.112/urls/45.136.22.51/clientType/0/srcAg/CHROME_ANDROID/mid/5204803001937/3366744885841_high/index.m3u8"]
     
-    ["beIN Sports MAX 2 HD", "Sports", "img/qatar2.jpg", "https://62321032223134ed.xplus7.app/SP/beIN.Max.2_720p/playlist.m3u8?Xplusendtime=1669208535&Xplusstarttime=1669122135&Xplushash=b6ZGion-mM_geYd6_H1m1dKvBqMVkLq8cYJ-_lUvn1Y="],
-    
-    ["beIN Sports MAX 2 HD", "Sports", "img/qatar2.jpg", "https://c16956fead07ebf34c501c5e0223251e.s3.eu-central-1.amazonaws.com/b2ec8f7833db40bf1201fc9091370f03/live_1080p60.m3u8"],
-    
-    ["beIN Sports MAX 3 HD", "Sports", "img/qatar3.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52347.m3u8"],
-            
-    ["beIN Sports MAX 4 HD", "Sports", "img/qatar4.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52348.m3u8"],
-            
-    ["beIN Sports MAX 5 HD", "Sports", "img/qatar5.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52349.m3u8"],
-            
-    ["beIN Sports MAX 6 HD", "Sports", "img/qatar6.jpg", "http://red.ipfox.org:8080/live/Karam2022/Karam2023/52350.m3u8"]
+  
             
     
 ]
