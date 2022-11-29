@@ -24,8 +24,15 @@ https://raw.githubusercontent.com/krismrp123/beinmax/main/1-720.m3u8
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",(E) beIN SPORTS MAX 2 HD
 https://raw.githubusercontent.com/krismrp123/beinmax/main/2-720.m3u8
 
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",(F) beIN SPORTS MAX 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.m3u8
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",(F) beIN SPORTS MAX 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
+
+
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",ALKASS 1 HD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Extra 1 HD
 https://12239013851ed.xplus7.app/SP/beIN.Max.1_720p/playlist.m3u8?Xplusendtime=1669739877&Xplusstarttime=1669653477&Xplushash=SpqO5CDBFpuwXf8dar-czFK-VYivtQw95LWLPuLgrnM=
+
