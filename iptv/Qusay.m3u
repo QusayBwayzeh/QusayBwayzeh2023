@@ -29,6 +29,14 @@ http://ourtv.live:8080/live/MediastarTV/MediastarTV/12303.m3u8
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",(F) beIN SPORTS MAX 2 HD
 http://ourtv.live:8080/live/MediastarTV/MediastarTV/12304.m3u8
 
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",(Zorro) beIN SPORTS MAX 1 HD
+https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259404
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",(Zorro) beIN SPORTS MAX 2 HD
+https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259405
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",(Zorro) Bein Sport MAX 01 SD
+https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259410
+#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",(Zorro) Bein Sport MAX 02 SD
+https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259411
 
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",ALKASS 1 HD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
