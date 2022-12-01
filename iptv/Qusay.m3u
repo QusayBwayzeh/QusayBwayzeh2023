@@ -41,6 +41,14 @@ https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259405
 https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259410
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar2.jpg" group-title="Bein Sports Arabic",(Zorro) Bein Sport MAX 02 SD
 https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259411
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar1.jpg" group-title="Bein Sports Arabic",(Zorro) beIN Sports Max 1 QA
+https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259422
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar1.jpg" group-title="Bein Sports Arabic",(Zorro) beIN Sports Max 2 QA
+https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259424
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar1.jpg" group-title="Bein Sports Arabic",(Zorro) beIN Sports Max 1 HD QA
+https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259423
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar1.jpg" group-title="Bein Sports Arabic",(Zorro) beIN Sports Max 2 HD QA
+https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259425
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar.jpg" group-title="Bein Sports Arabic",ALKASS 1 HD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
