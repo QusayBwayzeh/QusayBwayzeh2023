@@ -33,6 +33,11 @@ http://fancytv.ddns.net:25461/fancynet/fancytv/1757
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar2.jpg" group-title="Bein Sports Arabic",(G) beIN SPORTS MAX 2 HD
 http://fancytv.ddns.net:25461/fancynet/fancytv/1758
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar1.jpg" group-title="Bein Sports Arabic",(H) beIN SPORTS MAX 1 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43852
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar2.jpg" group-title="Bein Sports Arabic",(H) beIN SPORTS MAX 2 HD
+http://appfactory.group:8080/qwiyJT4YBH/lBcCDVscVm/43853
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar1.jpg" group-title="Bein Sports Arabic",(Zorro) beIN SPORTS MAX 1 HD
 https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259404
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar2.jpg" group-title="Bein Sports Arabic",(Zorro) beIN SPORTS MAX 2 HD
