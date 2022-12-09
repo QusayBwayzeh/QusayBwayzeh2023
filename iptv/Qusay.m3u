@@ -58,5 +58,8 @@ https://m3u-editor.com/serve/a0d09030-695b-11ed-a829-91d84f9be3ed/697259425
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar.jpg" group-title="Bein Sports Arabic",ALKASS 1 HD
 http://connect.proxytx.cloud:80/play/live.php?mac=00:1A:79:1c:0b:6c&stream=1053342&extension=ts&play_token=pk7zRQATRG
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar.jpg" group-title="Bein Sports Arabic",Extra 3 HD
-https://71235023012ed.xplus7.app/SP/beIN.Max.2_480p/playlist.m3u8?Xplusendtime=1670181544&Xplusstarttime=1670095144&Xplushash=tOJugsEedVTSZ39O_BXSaqzOvMB2cTDfbER-QmYzhAA=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar.jpg" group-title="Bein Sports Arabic",Extra 4 HD
+https://62321031253112ed.xplus7.app/SP/beIN.Max.2_720p/playlist.m3u8?Xplusendtime=1670695549&Xplusstarttime=1670609149&Xplushash=9bSFfQD7g54ocie_M1TVNUYWoastl4KYtTOGQKKWJkY=
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://qusay.me/qatar/img/qatar.jpg" group-title="Bein Sports Arabic",Extra 5 HD
+https://62321031253112ed.xplus7.app/SP/Alkass.OneExtra_720p/playlist.m3u8?Xplusendtime=1670695549&Xplusstarttime=1670609149&Xplushash=BcGN1XwymDhI-o257YStudQ3doK2yeQ-1C6oSlFONxI=
